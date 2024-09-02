@@ -7,6 +7,7 @@ This repository contains a Jupyter Notebook for classifying Alzheimer's disease 
 - **Data Preprocessing:**
   - Loaded the dataset (`alzheimers_disease_data.csv`).
   - Dropped irrelevant or less informative columns such as `PatientID`, `Ethnicity`, `EducationLevel`, `Gender`, and `DoctorInCharge`.
+  - **[Alzheimer's Disease Dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)**
 
 - **Feature Selection:**
   - Implemented feature selection techniques using `f_classif`, `mutual_info_classif`, and `chi2`.
